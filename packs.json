@@ -7,7 +7,7 @@
       "description": "Teścik",
       "mcVersion": "1.21.1",
       "loader": "neoforge",
-      "updated": "2026-10-22T16:38:30.011Z",
+      "updated": "2026-10-22T16:51:38.458Z",
       "versions": [
         {
           "version": "1.0.0",
@@ -20,7 +20,10 @@
         }
       ],
       "loaderVersion": "21.1.256",
-      "icon": "https://raw.githubusercontent.com/Tlagz/zerda-packs/main/icons/hbm-tlagz-edition-d517.png?v=1792687110011"
+      "icon": "https://raw.githubusercontent.com/Tlagz/zerda-packs/main/icons/hbm-tlagz-edition-d517.png?v=1792687110011",
+      "accent": "#ef4444",
+      "tags": [],
+      "links": []
     }
   ]
 }
