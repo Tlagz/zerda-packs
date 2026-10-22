@@ -1,31 +1,4 @@
 {
   "version": 1,
-  "packs": [
-    {
-      "id": "hbm-tlagz-edition-d517",
-      "name": "Sztulagz",
-      "description": "Teścik",
-      "mcVersion": "1.21.1",
-      "loader": "neoforge",
-      "updated": "2026-10-22T16:54:33.991Z",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "date": "2026-10-22T16:38:28.520Z",
-          "changelog": "Release",
-          "url": "https://github.com/Tlagz/zerda-packs/releases/download/hbm-tlagz-edition-d517-v1.0.0/hbm-tlagz-edition-d517-1.0.0.zerda",
-          "size": 12323053,
-          "sha1": "e3f4c2b595bd0758d6dfa4b869be95bfc52103b4",
-          "mods": 79
-        }
-      ],
-      "loaderVersion": "21.1.256",
-      "icon": "https://raw.githubusercontent.com/Tlagz/zerda-packs/main/icons/hbm-tlagz-edition-d517.png?v=1792687110011",
-      "accent": "#ef4444",
-      "tags": [],
-      "links": [],
-      "banner": "https://raw.githubusercontent.com/Tlagz/zerda-packs/main/banners/hbm-tlagz-edition-d517.jpg?v=1792687910917",
-      "server": "localhost"
-    }
-  ]
+  "packs": []
 }
