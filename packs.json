@@ -7,8 +7,18 @@
       "description": "",
       "mcVersion": "1.21.1",
       "loader": "neoforge",
-      "updated": "2026-10-25T10:10:26.639Z",
+      "updated": "2026-10-25T10:17:45.151Z",
       "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2026-10-25T10:17:45.144Z",
+          "changelog": "naprawiony loader",
+          "url": "https://github.com/Tlagz/zerda-packs/releases/download/sztulagz-8ba8-v1.0.1/sztulagz-8ba8-1.0.1.zerda",
+          "size": 3033529,
+          "sha1": "a10f820a9de3e98ee3b989ac98360e43e31e4281",
+          "mods": 81,
+          "required": true
+        },
         {
           "version": "1.0.0",
           "date": "2026-10-25T10:07:19.068Z",
@@ -25,7 +35,7 @@
         "Sztulagz"
       ],
       "links": [],
-      "loaderVersion": "21.1.256",
+      "loaderVersion": "21.1.265",
       "icon": "https://raw.githubusercontent.com/Tlagz/zerda-packs/main/icons/sztulagz-8ba8.png?v=1792922840377",
       "banner": "https://raw.githubusercontent.com/Tlagz/zerda-packs/main/banners/sztulagz-8ba8.jpg?v=1792922841939",
       "ramMb": 6656,
