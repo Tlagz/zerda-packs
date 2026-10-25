@@ -7,7 +7,7 @@
       "description": "",
       "mcVersion": "1.21.1",
       "loader": "neoforge",
-      "updated": "2026-10-25T10:07:21.939Z",
+      "updated": "2026-10-25T10:08:34.047Z",
       "versions": [
         {
           "version": "1.0.0",
@@ -27,7 +27,8 @@
       "links": [],
       "loaderVersion": "21.1.256",
       "icon": "https://raw.githubusercontent.com/Tlagz/zerda-packs/main/icons/sztulagz-8ba8.png?v=1792922840377",
-      "banner": "https://raw.githubusercontent.com/Tlagz/zerda-packs/main/banners/sztulagz-8ba8.jpg?v=1792922841939"
+      "banner": "https://raw.githubusercontent.com/Tlagz/zerda-packs/main/banners/sztulagz-8ba8.jpg?v=1792922841939",
+      "ramMb": 6656
     }
   ]
 }
